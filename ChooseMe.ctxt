@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ChooseMe
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p1\ p2
+comment2.target=int\ compare(ChooseMe.Pair,\ ChooseMe.Pair)
+numComments=3

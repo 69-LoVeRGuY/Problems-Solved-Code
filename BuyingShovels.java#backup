@@ -1,0 +1,35 @@
+import java.io.*;
+import java.util.*;
+public class BuyingShovels
+{
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0)
+        {
+            int n=sc.nextInt();
+            int k=sc.nextInt();
+            if(n<=k)
+            {
+                System.out.println(1);
+                continue;
+            }
+            if(k==1)
+            {
+                System.out.println(n);
+                continue;
+            }
+            int a=2;
+            while(true)
+            {
+                int b=n/a;
+                if(b<=k && n%a==0)
+                    break;
+                else
+                    a++;
+            }
+            System.out.println(a);
+        }
+    }
+}

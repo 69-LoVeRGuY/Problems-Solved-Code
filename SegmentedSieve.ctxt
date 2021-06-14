@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SegmentedSieve
+comment1.params=limit\ prime
+comment1.target=void\ simpleSieve(int,\ java.util.Vector)
+comment2.params=n
+comment2.target=void\ segmentedSieve(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

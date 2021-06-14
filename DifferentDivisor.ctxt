@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DifferentDivisor
+comment1.params=
+comment1.target=void\ sieve()
+comment2.params=a\ x
+comment2.target=int\ lowerBound(java.lang.Integer[],\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

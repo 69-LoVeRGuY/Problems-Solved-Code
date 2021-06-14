@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PashmakAndFlowers
+comment1.params=n\ k
+comment1.target=long\ binomialCoeff(long,\ long)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

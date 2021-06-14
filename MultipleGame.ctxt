@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MultipleGame
+comment1.params=a\ d
+comment1.target=void\ iDiffArray(int[],\ int[])
+comment2.params=d\ l\ r\ x
+comment2.target=void\ update(int[],\ int,\ int,\ int)
+comment3.params=a\ d
+comment3.target=void\ f(int[],\ int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

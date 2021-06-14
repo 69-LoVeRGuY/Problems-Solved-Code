@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TowerOfHanoi
+comment1.params=n\ from\ to\ extra
+comment1.target=void\ tower(int,\ int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

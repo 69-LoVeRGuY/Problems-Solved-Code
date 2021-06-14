@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MovieFestival
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y
+comment2.target=int\ compare(MovieFestival.Pair,\ MovieFestival.Pair)
+numComments=3

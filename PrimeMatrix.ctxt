@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrimeMatrix
+comment1.params=
+comment1.target=void\ sieveOfEratosthenes()
+comment2.params=a\ N\ X
+comment2.target=int\ upperBound(java.lang.Integer[],\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

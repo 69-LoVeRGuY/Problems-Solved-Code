@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gasoline
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=d1\ d2
+comment2.target=int\ compare(Gasoline.Distance,\ Gasoline.Distance)
+numComments=3

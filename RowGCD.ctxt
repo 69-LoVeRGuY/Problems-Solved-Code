@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RowGCD
+comment1.params=a\ b
+comment1.target=long\ gcd(long,\ long)
+comment2.params=a\ c
+comment2.target=long\ findGcd(long[],\ long)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
